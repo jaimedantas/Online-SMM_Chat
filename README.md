@@ -13,4 +13,4 @@ The softwere was developed using TCP Socket. You can get more details on the SMM
 [Webpage](http://jaimedantas.ddns.net/chat.html)
 
 
-© 2016 Alexandre Luz & Jaime Datas
+© 2016 Jaime Dantas & Alexandre Luz
