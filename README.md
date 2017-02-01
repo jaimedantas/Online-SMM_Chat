@@ -10,7 +10,6 @@ The SMM Chat is an online chat developed in Java compatible with Unix, Mac OS X,
 
 The softwere was developed using TCP Socket. You can get more details on the SMM Chat Webpage.
 
-[Webpage](http://jaimedantas.ddns.net/chat.html)
 
 ##Features
 * Chat rooms
